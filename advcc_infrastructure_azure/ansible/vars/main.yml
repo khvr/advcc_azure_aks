@@ -1,0 +1,7 @@
+---
+cluster_name: "{{ clustername }}"
+region: "{{region}}"
+webapp_domain: "{{ webapp_domain }}"
+project_dir: "{{ terraform_project }}"
+resource_group: "{{ resource_group }}"
+hosted_zone: "{{ hosted_zone }}"
